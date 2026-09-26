@@ -29,14 +29,10 @@ They are the source of truth — always **edit them**, never rewrite from scratc
 ## Writing rules
 
 - `cv.html` in **English**; `cv-vi.html` in natural **Vietnamese** (keep tech terms, job titles and project names in English; dates as `MM/YYYY`, "Hiện tại", "Dự án cá nhân", "Đồ án môn học"). Talk to the user in **Vietnamese**.
-- **Plain, everyday wording in both languages.** Write the way a hiring manager talks: short sentences, common words, one idea per bullet, start each bullet with a simple verb. Say what was built and why it matters, not how impressive it sounds.
-  - English: prefer Built, Added, Worked on, Wrote, Ran, Used, Integrated, Applied, Investigated, Documented. Avoid buzzword verbs (Leveraged, Spearheaded, Orchestrated, Architected, Facilitated).
-  - Keep concrete technical names (e.g. `unaccent, pg_trgm`, `Semantic Kernel`, `RAG-based`) — the user prefers precise technical wording over simplified paraphrase. The user explicitly chose these EN lines; do not simplify them again:
-    - "Investigated and fixed bugs in existing components under the guidance of senior developers."
-    - "Applied PostgreSQL full-text search (unaccent, pg_trgm) to support Vietnamese product search."
-    - "Integrated RAG-based AI search with Semantic Kernel to recommend products to customers and assist admins with management tasks."
-  - Vietnamese: natural spoken-professional Vietnamese, not administrative style. Prefer Xây dựng, Làm chức năng, Tham gia phát triển, Tìm và sửa lỗi, Viết, Chạy, Tích hợp, Áp dụng. Avoid heavy Sino-Vietnamese phrasing ("trong công tác", "tài liệu hóa", "tuân thủ", "khắc phục") and word-by-word translation. Keep "tại ngũ", "Khóa luận tốt nghiệp", "ĐHQG TP.HCM", "quản trị viên".
-  - Both files say the same thing; translate meaning, not words.
+- **Formal, professional register in both languages** (the user prefers this over casual/plain wording — do not simplify). Start each bullet with a verb, one idea per bullet, keep concrete technical names (`unaccent, pg_trgm`, `Semantic Kernel`, `RAG`, `HMAC-SHA256`).
+  - English: Developed, Implemented, Integrated, Applied, Contributed to, Investigated, Supported, Documented, Followed. Avoid buzzwords (Leveraged, Spearheaded, Orchestrated, Architected).
+  - Vietnamese: formal CV style — Phát triển, Xây dựng, Tích hợp, Ứng dụng, Áp dụng, Tham gia, Phân tích và khắc phục, Tuân thủ, Hỗ trợ, Tài liệu hóa. Preferred terms: "Lập trình viên Java Backend", "tại ngũ", "kịch bản kiểm thử tự động", "kiểm thử hồi quy", "đợt phát hành", "quản trị viên", "trong công tác quản lý", "Khóa luận tốt nghiệp", "ĐHQG TP.HCM".
+  - Both files say the same thing; translate meaning, not word by word.
 - The candidate is early-career (a bit above fresher). Use **safe wording**: Developed, Implemented, Contributed to, Supported, Applied. Avoid "Junior", "Architected", "Led", "high-performance", and any metric the user has not confirmed.
 - Concise and professional: summary 2 sentences; 2–4 bullets per project; last bullet is `Tech Stack: ...`.
 - Project header format:
