@@ -47,4 +47,4 @@ They are the source of truth — always **edit them**, never rewrite from scratc
 
 - Current job: Software Engineer · wearesection, May 2026 – Present (AEM Java backend + bugfix; Katalon test automation).
 - Education: VNUHCM – UIT, June 2022 – 2027, GPA 3.5. Thesis (VietJobs, group project, ongoing): one line only under Education — occupation classification and salary estimation from Vietnamese job postings (PhoBERT, Python). Do not list it under Projects for backend roles.
-- SaigonDepot: personal, Jul 2026 – Aug 2026 (Spring Boot, PostgreSQL). E-Commerce-API: course, Feb 2026 – May 2026 (.NET, RAG AI search). Bookstore API: course, Sep 2022 – Dec 2022 (Django, VNPAY) — https://github.com/boy2407/django-api-bookstore.
+- SaigonDepot: personal, Jul 2026 – Aug 2026 (Spring Boot, PostgreSQL) — https://saigondepot.vn/. E-Commerce-API: course, Feb 2026 – May 2026 (.NET, RAG AI search) — https://github.com/boy2407/NoName. Bookstore API: course, Sep 2022 – Dec 2022 (Django, VNPAY) — https://github.com/boy2407/django-api-bookstore.
