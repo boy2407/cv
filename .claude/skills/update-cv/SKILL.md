@@ -29,6 +29,7 @@ They are the source of truth — always **edit them**, never rewrite from scratc
 ## Writing rules
 
 - `cv.html` in **English**; `cv-vi.html` in natural **Vietnamese** (keep tech terms, job titles and project names in English; dates as `MM/YYYY`, "Hiện tại", "Dự án cá nhân", "Đồ án môn học"). Talk to the user in **Vietnamese**.
+- Vietnamese style (`cv-vi.html`): formal, concise CV register — start bullets with a verb (Phát triển, Xây dựng, Tích hợp, Áp dụng, Tham gia, Hỗ trợ), no personal pronouns. Preferred terms: "Lập trình viên Java Backend", "tại ngũ" (military service), "khắc phục lỗi", "kịch bản kiểm thử tự động", "kiểm thử hồi quy", "đợt phát hành", "quản trị viên", "tài liệu hóa API", "Khóa luận tốt nghiệp", "ĐHQG TP.HCM". Translate meaning, not word by word.
 - The candidate is early-career (a bit above fresher). Use **safe wording**: Developed, Implemented, Contributed to, Supported, Applied. Avoid "Junior", "Architected", "Led", "high-performance", and any metric the user has not confirmed.
 - Concise and professional: summary 2 sentences; 2–4 bullets per project; last bullet is `Tech Stack: ...`.
 - Project header format:
