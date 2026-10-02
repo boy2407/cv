@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  /* Utilitarian Monochrome Theme */
+  --color-base-bg: #fafafa; /* Off-white paper */
+  --color-base-fg: #111111; /* Charcoal */
+  --color-border-main: #111111;
+  --color-accent-amber: #d97706; /* Safety Amber for status */
+  
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+body {
+  @apply bg-base-bg text-base-fg font-sans antialiased selection:bg-accent-amber selection:text-white;
+}
+
+/* Remove default focus outlines and replace with sharp technical outlines */
+*:focus-visible {
+  outline: 2px solid var(--color-base-fg);
+  outline-offset: 2px;
+}
