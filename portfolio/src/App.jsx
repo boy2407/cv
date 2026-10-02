@@ -179,7 +179,7 @@ const Portfolio = () => {
                   <h3 className="font-bold text-lg">Smart E-Commerce API & Payment Gateway</h3>
                   <p className="text-sm font-mono text-[#555] mt-1 uppercase">Đồ án chuyên sâu | 02/2026 - 05/2026</p>
                 </div>
-                <a href="https://github.com/boy2407/e-commerce-api" className="mt-4 sm:mt-0 font-mono font-bold text-sm border border-[#111] px-3 py-1 hover:bg-[#111] hover:text-white transition-colors uppercase">
+                <a href="https://github.com/boy2407/NoName" target="_blank" rel="noreferrer" className="mt-4 sm:mt-0 font-mono font-bold text-sm border border-[#111] px-3 py-1 hover:bg-[#111] hover:text-white transition-colors uppercase">
                   [View Source]
                 </a>
               </header>
